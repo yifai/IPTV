@@ -6,9 +6,9 @@ https://live.hkdvb.com/hls/live/81.m3u8?token=570264386525461&edge=edge2.hkdvb.c
 https://live.hkdvb.com/hls/live/581.m3u8?token=570264386525461&edge=edge2.hkdvb.com
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="TVB", TVB PLUS
 https://live.hkdvb.com/hls/live/82.m3u8?token=570264386525461&edge=edge2.hkdvb.com
-#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="TVB", News 新聞台
+#EXTINF:-1 tvg-id="83" tvg-name="TVB News" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="TVB", TVB News
 https://live.hkdvb.com/hls/live/83.m3u8?token=570264386525461&edge=edge2.hkdvb.com
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="TVB", Pearl 明珠台
+#EXTINF:-1 tvg-id="84" tvg-name="TVB Pearl" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="TVB", TVB Pearl
 https://live.hkdvb.com/hls/live/84.m3u8?token=570264386525461&edge=edge2.hkdvb.com
 #EXTINF:-1 tvg-id="89" tvg-name="華語劇台" tvg-logo="https://live.hkdvb.com/static/logos/803.png" group-title="TVB", 華語劇台
 https://live.hkdvb.com/hls/live/89.m3u8?token=570264386525461&edge=edge2.hkdvb.com
