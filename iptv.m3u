@@ -30,7 +30,7 @@ http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=1
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO.png",HBO HD
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 
-#EXTINF:-1 tvg-name="HBO 原創钜獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO2.png",HBO 原創钜獻
+#EXTINF:-1 tvg-name="HBO 原創钜獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO3.png",HBO 原創钜獻
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 #EXTINF:-1 tvg-name="HBO 家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO 家庭
@@ -84,10 +84,10 @@ http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F71432800714328
 #EXTINF:-1 tvg-name="好萊塢電影3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Hollywood.png",好萊塢電影3
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
 
-#EXTINF:-1 tvg-name="愛爾達影劇1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/elta_yingju.png",愛爾達影劇1
+#EXTINF:-1 tvg-name="愛爾達影劇1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA2.png",愛爾達影劇1
 http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 
-#EXTINF:-1 tvg-name="愛爾達影劇2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/elta_yingju.png",愛爾達影劇2
+#EXTINF:-1 tvg-name="愛爾達影劇2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA2.png",愛爾達影劇2
 http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 
 #EXTINF:-1 tvg-name="愛爾達體育1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA4.png",愛爾達體育1
