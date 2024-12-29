@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png",BBC World News
 http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg.png",Bloomberg
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/BloombergTV.png",Bloomberg
 http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
 
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg.png",Bloomberg
