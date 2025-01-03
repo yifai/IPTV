@@ -42,13 +42,13 @@ http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK31.png",RTHK31
 http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32-1
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32-2
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=19234&tsum=6c3d17c15f8d4a4a0537ef1cb7c1cc45
 
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32-3
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 
 #EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/TVB3.png",TVB J2
@@ -57,79 +57,79 @@ http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&t
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/TVB2.png",明珠台
 http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 
-#EXTINF:-1 tvg-name="動物星球1" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球1
+#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME5E9654770896547708&ct=19338&tsum=775367f2f591f704aaf1489d70434b49
 
-#EXTINF:-1 tvg-name="動物星球2" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球2
+#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MF9F9255818592558185&ct=19344&tsum=749eaebb64cf95e20862c56226a8446e
 
-#EXTINF:-1 tvg-name="動物星球3" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球3
+#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 
-#EXTINF:-1 tvg-name="國家地理台灣1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/DMAX.png",國家地理台灣1
+#EXTINF:-1 tvg-name="國家地理台灣" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/DMAX.png",國家地理台灣
 http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 
-#EXTINF:-1 tvg-name="國家地理台灣2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/DMAX.png",國家地理台灣2
+#EXTINF:-1 tvg-name="國家地理台灣" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/DMAX.png",國家地理台灣
 http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 
-#EXTINF:-1 tvg-name="國家地理台灣3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/DMAX.png",國家地理台灣3
+#EXTINF:-1 tvg-name="國家地理台灣" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/DMAX.png",國家地理台灣
 http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 
-#EXTINF:-1 tvg-name="好萊塢電影1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Hollywood.png",好萊塢電影1
+#EXTINF:-1 tvg-name="好萊塢電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Hollywood.png",好萊塢電影
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 
-#EXTINF:-1 tvg-name="好萊塢電影2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Hollywood.png",好萊塢電影2
+#EXTINF:-1 tvg-name="好萊塢電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Hollywood.png",好萊塢電影
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 
-#EXTINF:-1 tvg-name="好萊塢電影3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Hollywood.png",好萊塢電影3
+#EXTINF:-1 tvg-name="好萊塢電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Hollywood.png",好萊塢電影
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
 
-#EXTINF:-1 tvg-name="愛爾達影劇1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA2.png",愛爾達影劇1
+#EXTINF:-1 tvg-name="愛爾達影劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA2.png",愛爾達影劇
 http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 
-#EXTINF:-1 tvg-name="愛爾達影劇2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA2.png",愛爾達影劇2
+#EXTINF:-1 tvg-name="愛爾達影劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA2.png",愛爾達影劇
 http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 
-#EXTINF:-1 tvg-name="愛爾達體育1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA4.png",愛爾達體育1
+#EXTINF:-1 tvg-name="愛爾達體育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA4.png",愛爾達體育
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 
-#EXTINF:-1 tvg-name="愛爾達體育2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA5.png",愛爾達體育2
+#EXTINF:-1 tvg-name="愛爾達體育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/ELTA5.png",愛爾達體育
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 
-#EXTINF:-1 tvg-name="Discovery科學1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",探索科學1
+#EXTINF:-1 tvg-name="Discovery科學1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",探索科學
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a
 
-#EXTINF:-1 tvg-name="Discovery科學2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",探索科學2
+#EXTINF:-1 tvg-name="Discovery科學" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",探索科學
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 
-#EXTINF:-1 tvg-name="Discovery科學3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",探索科學3
+#EXTINF:-1 tvg-name="Discovery科學" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",探索科學
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 
-#EXTINF:-1 tvg-name="Discovery科學4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",探索科學4
+#EXTINF:-1 tvg-name="Discovery科學" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",探索科學
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 
-#EXTINF:-1 tvg-name="Discovery1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/DiscoveryHD.png",探索頻道1
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/DiscoveryHD.png",探索頻道
 http://50.7.234.10:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 
-#EXTINF:-1 tvg-name="Discovery2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/DiscoveryHD.png",探索頻道2
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/DiscoveryHD.png",探索頻道
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
 
-#EXTINF:-1 tvg-name="Discovery3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/DiscoveryHD.png",探索頻道3
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/DiscoveryHD.png",探索頻道
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B5177298351772983&ct=19234&tsum=ca4373fe502ea49d281ea1ecdd3531f5
 
-#EXTINF:-1 tvg-name="Discovery4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/DiscoveryHD.png",探索頻道4
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/DiscoveryHD.png",探索頻道
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 
-#EXTINF:-1 tvg-name="東森洋片1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/东森洋片.png",東森洋片1
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/东森洋片.png",東森洋片
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 
-#EXTINF:-1 tvg-name="東森洋片2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/東森洋片.png",東森洋片2
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/東森洋片.png",東森洋片
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 
-#EXTINF:-1 tvg-name="東森電影1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/EBC3.png",東森電影1
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/EBC3.png",東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 
-#EXTINF:-1 tvg-name="東森電影2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/EBC3.png",東森電影2
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/EBC3.png",東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MECE7715898977158989&ct=19234&tsum=a663a2e65f2d50fefd2d6b096f9e3f02
 
 #EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/meiyady.png",美亞電影
