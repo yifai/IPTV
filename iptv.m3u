@@ -50,9 +50,9 @@ http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=1923
 
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
-#EXTINF:-1 tvg-name="HOY 國際財經台" tvg-logo="https://github.com/yifai/IPTV/blob/main/icon/Hoytv76.png",HOY 國際財經台
+#EXTINF:-1 tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv76.png",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://github.com/yifai/IPTV/blob/main/icon/Hoytv.png",HOY TV
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv.png",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-name="HOY 資訊台" tvg-logo="",HOY 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
