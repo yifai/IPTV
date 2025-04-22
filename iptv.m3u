@@ -33,10 +33,10 @@ http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=178
 #EXTINF:-1 tvg-name="HBO 原創钜獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO3.png",HBO 原創钜獻
 http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
-#EXTINF:-1 tvg-name="HBO温馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO温馨家庭
+#EXTINF:-1 tvg-name="HBO 温馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO温馨家庭
 http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
-#EXTINF:-1 tvg-name="HBO温馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO温馨家庭
+#EXTINF:-1 tvg-name="HBO 温馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO温馨家庭
 http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK31.png",RTHK31
@@ -50,6 +50,12 @@ http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=1923
 
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+#EXTINF:-1 tvg-name="HOY 國際財經台" tvg-logo="",HOY 國際財經台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-name="HOY 資訊台" tvg-logo="",HOY 資訊台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 #EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/TVB3.png",TVB J2
 http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
