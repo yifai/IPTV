@@ -42,16 +42,16 @@ http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png",翡翠台
 http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK31.png",RTHK31
+#EXTINF:-1 tvg-name="港台電視31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK31.png",港台電視31
 http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32
+#EXTINF:-1 tvg-name="港台電視32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",港台電視32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32
+#EXTINF:-1 tvg-name="港台電視32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",港台電視32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=19234&tsum=6c3d17c15f8d4a4a0537ef1cb7c1cc45
 
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",RTHK32
+#EXTINF:-1 tvg-name="港台電視32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png",港台電視32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 
 #EXTINF:-1 tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv76.png",HOY 國際財經台
