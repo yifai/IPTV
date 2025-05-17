@@ -1,44 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/BBCWORLDNEWSASIA.png",BBC World News
-http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/BloombergTV.png",Bloomberg
-http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/BloombergTV.png",Bloomberg
-http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
-
-#EXTINF:-1 tvg-name="CBS HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/CBS HD.png",CBS HD
-http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/CBS News.png",CBS News
-http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-
-#EXTINF:-1 tvg-name="罪案偵緝頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CI罪案侦查频道.png",罪案偵緝頻道
-http://50.7.234.10:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Cinemax.png",Cinemax
-http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
-
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/FoxLive.png",Fox News
-http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/France24.png",France24
-http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
-
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO.png",HBO HD
-http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-
-#EXTINF:-1 tvg-name="HBO 原創钜獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO3.png",HBO 原創钜獻
-http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-
-#EXTINF:-1 tvg-name="HBO 温馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO温馨家庭
-http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-
-#EXTINF:-1 tvg-name="HBO 温馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO温馨家庭
-http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png",翡翠台
 http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 
@@ -152,3 +113,42 @@ http://50.7.234.10:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum
 
 #EXTINF:-1 tvg-name="龍華洋片台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/龙华洋片.png",龍華洋片台
 http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF7F3761146937611469&ct=19234&tsum=e8b375d0c73fff5a34a7e3b4de2f53bb
+
+#EXTINF:-1 tvg-name="罪案偵緝頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CI罪案侦查频道.png",罪案偵緝頻道
+http://50.7.234.10:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO.png",HBO HD
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+
+#EXTINF:-1 tvg-name="HBO 原創钜獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO3.png",HBO 原創钜獻
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+
+#EXTINF:-1 tvg-name="HBO 温馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO温馨家庭
+http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+
+#EXTINF:-1 tvg-name="HBO 温馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/HBO1.png",HBO温馨家庭
+http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/BBCWORLDNEWSASIA.png",BBC World News
+http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/BloombergTV.png",Bloomberg
+http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/BloombergTV.png",Bloomberg
+http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
+
+#EXTINF:-1 tvg-name="CBS HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/CBS HD.png",CBS HD
+http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/CBS News.png",CBS News
+http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Cinemax.png",Cinemax
+http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/FoxLive.png",Fox News
+http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+
+#EXTINF:-1 tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/France24.png",France24
+http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
