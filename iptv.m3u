@@ -63,13 +63,13 @@ http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct
 #EXTINF:-1 tvg-name="Discovery科學HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",科學頻道
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a
 
-#EXTINF:-1 tvg-name="Discovery 科學頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",科學頻道
+#EXTINF:-1 tvg-name="Discovery科學HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",科學頻道
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 
-#EXTINF:-1 tvg-name="Discovery 科學頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",科學頻道
+#EXTINF:-1 tvg-name="Discovery科學HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",科學頻道
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 
-#EXTINF:-1 tvg-name="Discovery 科學頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",科學頻道
+#EXTINF:-1 tvg-name="Discovery科學HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/Discovery科学.png",科學頻道
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 
 #EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main//tv/东森洋片.png",東森洋片台
