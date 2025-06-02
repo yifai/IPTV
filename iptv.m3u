@@ -30,13 +30,13 @@ http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&t
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/TVB2.png",明珠台
 http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 
-#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
+#EXTINF:-1 tvg-name="動物星球頻道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME5E9654770896547708&ct=19338&tsum=775367f2f591f704aaf1489d70434b49
 
-#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
+#EXTINF:-1 tvg-name="動物星球頻道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MF9F9255818592558185&ct=19344&tsum=749eaebb64cf95e20862c56226a8446e
 
-#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
+#EXTINF:-1 tvg-name="動物星球頻道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/refs/heads/main/Logo/Animal_Planet.png",動物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 
 #EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/Hollywood.png",好萊塢電影台
