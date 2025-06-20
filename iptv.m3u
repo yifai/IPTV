@@ -18,6 +18,12 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png",HOY 78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/viutv.png",Viu TV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/viutv.png",Viu TV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
 #EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/TVB3.png",TVB J2
 http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 
