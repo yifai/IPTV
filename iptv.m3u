@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png",翡翠台
-http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-
 #EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK31.png",港台電視31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
