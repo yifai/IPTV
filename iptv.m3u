@@ -12,7 +12,7 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv77.png",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
-#EXTINF:-1 tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png",HOY 資訊台
+#EXTINF:-1 tvg-name=HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png",HOY 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/viutv.png",Viu TV
