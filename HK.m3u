@@ -109,7 +109,7 @@ https://iptv.korice.eu.org/live/d092b0dec17eb861f2341e5cd68c4b0a78fc5a39887e3735
 #KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
 https://iptv.korice.eu.org/live/2d2b828e768c0b9d737bd0f5c105c249bea8502cddd745c7aefe83e4a07e62cd.php?token=570264386485304
 
-EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", 廣東廣播電視台大灣區衛視頻道
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", 廣東廣播電視台大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
