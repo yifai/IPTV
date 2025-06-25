@@ -1,0 +1,397 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://iptv.korice.eu.org/live/893f71f4fa97d1e7e6aecae7e96849608c92194c7629e28c61af78accd89c1e6.php?token=570264386485304
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://iptv.korice.eu.org/live/dfd2c0327592a7611eebbd367c1c4b4833c855cd207777e6e5e3677c8a66bc9d.php?token=570264386485304
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合", TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://iptv.korice.eu.org/live/2faa2a8697d2ebf77c065d5d15d2e696ed31c0ca5c5f84c322070b70fb647b70.php?token=570264386485304
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", 無線新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+https://iptv.korice.eu.org/live/e7fc44a24da0795f1392b1dcee1e02950dd34f9e1da58424bd0ce948e4a119c2.php?token=570264386485304
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="新聞財經", 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+https://iptv.korice.eu.org/live/44ced12664c5b8f81e81303dc584392d83f364b432f79a072c061df78e9526b7.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="娛樂", SUPER獎門人
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
+https://iptv.korice.eu.org/live/ae5b02ffe0a239992ce9eb629496444543e08dd8fc33f64717a8bce68db3df41.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="娛樂", SUPER EYT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
+https://iptv.korice.eu.org/live/79d7360908f4148cd095c8ceb1e80de1afc41d31b21910dc33bfac6966ab1860.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活", SUPER識食
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
+https://iptv.korice.eu.org/live/ca9e60aa9a4439f976a506686e633d1d6815203f31906deffb6757530f9ade38.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活", SUPER識嘆
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
+https://iptv.korice.eu.org/live/665fc31370cd8068f425c5cd358810e464089974f889c3c61513f1a75adba121.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="音樂綜藝", SUPER Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
+https://iptv.korice.eu.org/live/db13057118273b226325d4cac0e1bb71bb3c070d88f04653407a116479a3652f.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="音樂綜藝", SUPER金曲
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
+https://iptv.korice.eu.org/live/e213592a71e6498795c8fa0e36029a6a46b2ec9045054a38b400275120b89f32.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="電影戲劇", SUPER煲劇
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
+https://iptv.korice.eu.org/live/acdea29eab835e3b79f74982125a72e2751a95764f9cc1eb8c6aff366178960a.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="電影戲劇", SUPER劇場
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
+https://iptv.korice.eu.org/live/9ec6202cb341f6c60f2e3f456186d4b8191196aa7896b4bcb15447191c3b672f.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活探索", SUPER話當年
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
+https://iptv.korice.eu.org/live/d092b0dec17eb861f2341e5cd68c4b0a78fc5a39887e3735bcadc5940166b9c3.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="體育", SUPER Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
+https://iptv.korice.eu.org/live/2d2b828e768c0b9d737bd0f5c105c249bea8502cddd745c7aefe83e4a07e62cd.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 雲南瀾湄國際衛視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
+https://iptv.korice.eu.org/live/b948579eac3954e31b481e08a8a70a926c9a4041f576ee1e04a62e2486a1f1a6.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 安徽廣播電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
+https://iptv.korice.eu.org/live/96b33418e3861a3c812473eeffee939c1b9dd1d29dbd56f20bcc4afcf00d8d15.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 北京電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
+https://iptv.korice.eu.org/live/6d5b60e30d63886333c72bf6c0fc357f8097483ea3dc35d2424b26dd45f21f71.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 廣西電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
+https://iptv.korice.eu.org/live/7d6863940b9e54e7d8be02ad1baf5d44e0e52a83616bccae453515d62600aca4.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 福建海峽衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
+https://iptv.korice.eu.org/live/70fcca277900eaee22abfcf2127cad4b352552aa9a947195795abfa965bc0aa5.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 湖南電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
+https://iptv.korice.eu.org/live/2bbbb084d5e904885c22e459b85087f91da6ab0c5e94db019c9eb10353eed105.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 江蘇電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
+https://iptv.korice.eu.org/live/c12fa4f87e6a4cfe39342bd7603bed19ca6398f3a7e64e72aba3583e8e428e32.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 廣東廣播電視台大灣區衛視頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
+https://iptv.korice.eu.org/live/5b9f5bfe5b8f759b52c5899af76f5e74778d18a694b41456845b5c030e104365.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 浙江電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
+https://iptv.korice.eu.org/live/b78ec9b577fb86ddbc8a45b0882bd0e2377e54e6e6824f20e8d61981533929f5.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 深圳衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
+https://iptv.korice.eu.org/live/d820d42dbd3f2b439ce0d76d59a1469380f03ab6ffb6e1954e4c376419e6b058.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戲劇電影", myTV SUPER FREE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
+https://iptv.korice.eu.org/live/70bc47193e13537584995eb7b64f011e1bb98ee744f940f3c2fb27f3ef3d9ba6.php?token=570264386485304
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="戲劇電影", myTV SUPER 18台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
+https://iptv.korice.eu.org/live/67829fa02832ba905861d0539c2cc8957552f3b208f06092f3d5fcf9f99e9c4e.php?token=570264386485304
+#EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="28 AI 智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="體育", 28 AI 智慧賽馬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
+https://iptv.korice.eu.org/live/2e65416a4c5c21d852e551eabad783bc37cb5a5ef92d9b300c1af47e5248446d.php?token=570264386485304
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="戲劇電影", 黃金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+https://iptv.korice.eu.org/live/a8d9d9b9e348f93dc59faced57364350822dd80f15ae1f62a028a8561b058f32.php?token=570264386485304
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="戲劇電影", 千禧經典台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
+https://iptv.korice.eu.org/live/1946942f060e0177ee0bf9b767d108faa3d081ff407204b42a137c86893d2bc4.php?token=570264386485304
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="戲劇電影", 華語劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
+https://iptv.korice.eu.org/live/312bead201f59b18cc8da5344376733dc685b8afe1af982cda18b812805f7dec.php?token=570264386485304
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="戲劇電影", 粵語片台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
+https://iptv.korice.eu.org/live/d1379115bba8ce650549d53aa14ba1d197fa94a31ed82f5187afa691ec995568.php?token=570264386485304
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="戲劇電影", 亞洲劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
+https://iptv.korice.eu.org/live/469680b54e186752b99deeac2bf3e26b2b3a27b53d374971195290aa6139fde9.php?token=570264386485304
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="戲劇電影", 黃金華劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
+https://iptv.korice.eu.org/live/2ac6ba706d5a88fb79d4ab5c9c643285b720e2c4055a27961da2e26b4649aa90.php?token=570264386485304
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="新聞財經", 娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
+https://iptv.korice.eu.org/live/5bdfc4218196381b00a5a1b84c3b3982aa640ef81a36bcb816adbc446908f83b.php?token=570264386485304
+#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="戲劇電影", 戲曲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
+https://iptv.korice.eu.org/live/e4b74cbf26138b13e28afd7c1e71ac2fd79f5dd7a2096a663bec2e778aa0a96c.php?token=570264386485304
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="少兒", SUPER Kids Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
+https://iptv.korice.eu.org/live/f31c8f01985eea7f4e7668f3a437d172f2166847105962c804d09454977b9db5.php?token=570264386485304
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="少兒", ZooMoo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
+https://iptv.korice.eu.org/live/3fb4ded9cfc4985d45149464a98c9d4d8d42e430902ecf410af9f2a5eff0cae6.php?token=570264386485304
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="少兒", Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
+https://iptv.korice.eu.org/live/c5d24e613dc7340515fe66cd3f61cc1d08e66c5966de7e610baaf6a2fdd41432.php?token=570264386485304
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="少兒", Nick Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
+https://iptv.korice.eu.org/live/ba5142d169d6437c2db628d657a11fdf9686f94c8b1318e5f4ae5bedbb581e46.php?token=570264386485304
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="戲劇電影", 美亞電影台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+https://iptv.korice.eu.org/live/bb0845d680c28e47881f38a7b83a8f4ce0cc04a90f26ddbd1f4343a52bb366a8.php?token=570264386485304
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="戲劇電影", Thrill
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
+https://iptv.korice.eu.org/live/70728d698926878e096bdb0b8c493b2a47b603d65359328aecde48fa30de11a2.php?token=570264386485304
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="戲劇電影", 天映經典頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
+https://iptv.korice.eu.org/live/0223098e4c616e5d5d652457de0ff4aab05fbe1532bd44864e0760fd2000fc8d.php?token=570264386485304
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="戲劇電影", 中國電影頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
+https://iptv.korice.eu.org/live/ef5de239af76eb9cc4b34c75b4b4cef7008df4116a3a9c217f9fbd49471023f8.php?token=570264386485304
+#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCK Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="戲劇電影", ROCK Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
+https://iptv.korice.eu.org/live/abce4e8415da969b99c3593886b4c8b434c951b95d3c7bdfc811d206117b57db.php?token=570264386485304
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="戲劇電影", KIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
+https://iptv.korice.eu.org/live/116e565cd1ce30be4695881595b2abce9f955e01035b27b5807445b76bcef766.php?token=570264386485304
+#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="探索自然", Love Nature HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
+https://iptv.korice.eu.org/live/6210f5b28ab986996bf60721856b7c626cf7296ca986f22608b7a1da40b3514b.php?token=570264386485304
+#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="探索自然", Love Nature 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
+https://iptv.korice.eu.org/live/ac8bcdd4b5c2bbc405388d7730b7c943ae11ebb0b5fc8bed48e4653ed21799b6.php?token=570264386485304
+#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="探索自然", Global Trekker
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
+https://iptv.korice.eu.org/live/8fd1a1078bbf9b04ab94cc16f0d057f810b8e2ccca87afc701c96e46a4a9e166.php?token=570264386485304
+#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="戲劇電影", ROCK 綜藝娛樂
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
+https://iptv.korice.eu.org/live/258a22e95389c318574650461cdfc52dcc667db479e4369536c41122e62718eb.php?token=570264386485304
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="其他", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
+https://iptv.korice.eu.org/live/0d5230d0c27fbddc8b03c3c40c10461bf1d60de2538e3f6a6f9f4d4d616be6cc.php?token=570264386485304
+#EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="戲劇電影", Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
+https://iptv.korice.eu.org/live/5233856ca98a5633a097cc8ef2e3938e675d00f79f5b5d66bde76af5f01e722c.php?token=570264386485304
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="戲劇電影", tvN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
+https://iptv.korice.eu.org/live/3baae4acee6fc4351d4e55d689f496f8c4670d30034889224c850ef036315ea9.php?token=570264386485304
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="新聞財經", 無線衛星亞洲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
+https://iptv.korice.eu.org/live/7c46ff515b83298fa7a527d458621c5013b460b02f7418d6b44fa1c38c35b35f.php?token=570264386485304
+#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="其他", 創世電視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
+https://iptv.korice.eu.org/live/dfb56a38d0a8f7a1021a46a0df513788d171dff1ddc9b83d50c8e6fb18496340.php?token=570264386485304
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="時尚", FashionBox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
+https://iptv.korice.eu.org/live/f5eae0e9d8aed729edcab69fcce14799a80ecfc06cd2aa3c0ff87f6af03f7000.php?token=570264386485304
+#EXTINF:-1 tvg-id="Mezzo-Live-HK" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="音樂綜藝", Mezzo Live HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
+https://iptv.korice.eu.org/live/00efa6c421b1a9b186b99139b3473af22922d0b94053f7420d6b77cb5a6ad86d.php?token=570264386485304
+#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="綜合", 東方衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
+https://iptv.korice.eu.org/live/b07c38f5c1143a0415ac54251833758888968f935bf0194db68a1aff11bedef1.php?token=570264386485304
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="綜合", 鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+https://iptv.korice.eu.org/live/7b3170e74d3ee3e191bf048d6bee2fd17485e2010fdabaaad066cad493ed24e8.php?token=570264386485304
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="新聞財經", 鳳凰衛視資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+https://iptv.korice.eu.org/live/884d75bc7940717c382b36143b79b8acd7f85189d2d622140e364db239c7e0bd.php?token=570264386485304
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="綜合", 鳳凰衛視香港台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+https://iptv.korice.eu.org/live/842f7726b529378cb3c2f108958fee2a6d77365b3f3e211ba53f7a8ef9aa6e15.php?token=570264386485304
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="戲劇電影", PopC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
+https://iptv.korice.eu.org/live/33c200431cf405beddbf389d279ee130cfd4e92370b1cd01a515fa30650acfdb.php?token=570264386485304
+#EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="綜合", 中央電視台綜合頻道 (港澳版)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+https://iptv.korice.eu.org/live/fa22f30d79e0d1fdfe1fe1e03860a05c9de285f981bec448120ccf57801abe20.php?token=570264386485304
+#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="綜合", CGTN (中國環球電視網)記錄頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
+https://iptv.korice.eu.org/live/f301b1744d033064d0dd05af9492418179ca6dff072b56136d8b993ba4f9308a.php?token=570264386485304
+#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="綜合", CGTN (中國環球電視網)英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
+https://iptv.korice.eu.org/live/5e24864ea760a45174e617494ebbbc1fe4710ee6f305e9872ce67cf2cf29c9fb.php?token=570264386485304
+#EXTINF:-1 tvg-id="神州新聞台" tvg-name="神州新聞台" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" group-title="新聞財經", 神州新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ee6ed08925f4716c8d0943e7bdb3e5f:6f3c1e31b30ccac36d466f41489ceb27
+https://iptv.korice.eu.org/live/31e2228b5c862f07916257e2dd2d3ae793522aadb5b2adc42aa827beda85d059.php?token=570264386485304
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="新聞財經", 無線衛星新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
+https://iptv.korice.eu.org/live/c3be6c0ae3b8820b79613d5490aa414d1d9ec25df6136f43cb7672a040effecf.php?token=570264386485304
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="新聞財經", 亞洲新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
+https://iptv.korice.eu.org/live/6e58ac9dbf6fac5170d651e39fb7df449c166bbc9d29e63cf0b97c8643b9b9f8.php?token=570264386485304
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="新聞財經", 半島電視台英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
+https://iptv.korice.eu.org/live/b72374ea6384e5f20992091942edd67fc77f8f1d82fcf247fd11dcc700332d33.php?token=570264386485304
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="新聞財經", France 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
+https://iptv.korice.eu.org/live/b9522c918ffd454a26ea8dcc7acbe6af4262185cad46e9edc85cfa516fd4cb50.php?token=570264386485304
+#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="新聞財經", DW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
+https://iptv.korice.eu.org/live/b1cca3e14b9dfbf29412b005c0830623562727d44f267b173b12538c6bfe032e.php?token=570264386485304
+#EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="新聞財經", NHK World-Japan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
+https://iptv.korice.eu.org/live/798a8b410fc26da1c6f60ff2b706357a1b5bdb3dd0c3408bb49ba0c4ff15ab7f.php?token=570264386485304
+#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="綜合", Arirang TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
+https://iptv.korice.eu.org/live/fcc1c8e520291da44ff13af020212281f05d4e3ac3211f8ad40c7d1fc2e0c0cc.php?token=570264386485304
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png" group-title="體育", myTV SUPER 直播足球3台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
+https://iptv.korice.eu.org/live/cd6dc20ea4f240d02b7abc97bd68e01bf8281f473cfed26c3ebd37f0b7b7bb6a.php?token=570264386485304
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png" group-title="體育", myTV SUPER 直播足球4台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
+https://iptv.korice.eu.org/live/16f0bbc26db087aef7683392f7a5db93b4a8f6285c2b01b610e4e5eef76738fb.php?token=570264386485304
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png" group-title="體育", myTV SUPER 直播足球5台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
+https://iptv.korice.eu.org/live/837450d1337910f03f4a1a7bfd1cc703be4e4cb275b0f482055ed23677345fc7.php?token=570264386485304
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png" group-title="體育", myTV SUPER 直播足球6台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
+https://iptv.korice.eu.org/live/edc0695488ddf8e652d951e085e7049ab019bcf763ebf299a1736032bad47d9f.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="體育", 互動窗 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
+https://iptv.korice.eu.org/live/9ef4238398f53283a1b5a6bdae661c0a9ce2e583a61d4ac7b7ae6425aee3b1ad.php?token=570264386485304
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="體育", 互動窗 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
+https://iptv.korice.eu.org/live/5a5c0f8caab6d8a70445dd9b4d58808d451c4bcb6a3c645ef7466e7839610e5b.php?token=570264386485304
