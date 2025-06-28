@@ -49,81 +49,81 @@ https://judy.diver.eu.org/websuper265.php?id=C
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
 https://judy.diver.eu.org/websuper265.php?id=P
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="娛樂", SUPER獎門人
+#EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="娛樂", SUPER獎門人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
 https://judy.diver.eu.org/websuper265.php?id=SVAR
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="娛樂", SUPER EYT
+#EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="娛樂", SUPER EYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
 https://judy.diver.eu.org/websuper265.php?id=SEYT
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER識食" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活", SUPER識食
+#EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER識食" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活", SUPER識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
 https://judy.diver.eu.org/websuper265.php?id=SFOO
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER識嘆" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活", SUPER識嘆
+#EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER識嘆" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活", SUPER識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
 https://judy.diver.eu.org/websuper265.php?id=STRA
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER Music" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="音樂綜藝", SUPER Music
+#EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="音樂綜藝", SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
 https://judy.diver.eu.org/websuper265.php?id=SMUS
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER金曲" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="音樂綜藝", SUPER金曲
+#EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="音樂綜藝", SUPER金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
 https://judy.diver.eu.org/websuper265.php?id=SGOL
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER煲劇" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="電影戲劇", SUPER煲劇
+#EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="電影戲劇", SUPER煲劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
 https://judy.diver.eu.org/websuper265.php?id=SSIT
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER劇場" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="電影戲劇", SUPER劇場
+#EXTINF:-1 tvg-id="SUPER劇場" tvg-name="SUPER劇場" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="電影戲劇", SUPER劇場
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
 https://judy.diver.eu.org/websuper265.php?id=STVM
 
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活探索", SUPER話當年
+#EXTINF:-1 tvg-id="SUPER話當年" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="生活探索", SUPER話當年
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
 https://judy.diver.eu.org/websuper265.php?id=SDOC
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER Sports" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="體育", SUPER Sports
+#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="體育", SUPER Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
 https://judy.diver.eu.org/websuper265.php?id=SSPT
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 廣東廣播電視台大灣區衛視頻道
+#EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 廣東廣播電視台大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
 https://judy.diver.eu.org/websuper265.php?id=GBTV
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="深圳衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 深圳衛視國際頻道
+#EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="綜合", 深圳衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
 https://judy.diver.eu.org/websuper265.php?id=SZTV
 
 
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戲劇電影", myTV SUPER FREE
+#EXTINF:-1 tvg-id="myTV SUPER FREE" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戲劇電影", myTV SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
