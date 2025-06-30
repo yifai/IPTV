@@ -166,6 +166,30 @@ https://hls-gateway.vpstv.net/streams/488939.m3u8
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", NOW新闻台
 https://hls-gateway.vpstv.net/streams/477070.m3u8
 
+#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", Now新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
+
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", Now爆谷台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now爆谷台
+
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", Now星影台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now星影台
+
+#EXTINF:-1 tvg-id="國家地理" tvg-name="國家地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", Now爆谷台
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=国家地理
+
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
+https://hls-gateway.vpstv.net/streams/476937.m3u8
+
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png", ViuTV6
+https://hls-gateway.vpstv.net/streams/476939.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png", CCTV9
+https://hls-gateway.vpstv.net/streams/476893.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png", CCTV9
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV9
+
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
 https://hls-gateway.vpstv.net/streams/476937.m3u8
 
