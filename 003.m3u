@@ -190,15 +190,6 @@ https://hls-gateway.vpstv.net/streams/476893.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png", CCTV9
 http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV9
 
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
-https://hls-gateway.vpstv.net/streams/476937.m3u8
-
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png", ViuTV6
-https://hls-gateway.vpstv.net/streams/476939.m3u8
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png", CCTV9
-https://hls-gateway.vpstv.net/streams/476893.m3u8
-
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://assets.livednow.com/logo/广东体育.png", 广东体育
 https://hls-gateway.vpstv.net/streams/476954.m3u8
 
