@@ -175,7 +175,7 @@ http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now爆谷台
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", Now星影台
 http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now星影台
 
-#EXTINF:-1 tvg-id="國家地理" tvg-name="國家地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", Now爆谷台
+#EXTINF:-1 tvg-id="國家地理" tvg-name="國家地理" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/National-Geographic.png", 國家地理
 http://api.mytv666.top/api/qwt.php?t=国外频道&id=国家地理
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
