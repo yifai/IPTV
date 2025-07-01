@@ -16,7 +16,7 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
-#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", NOW新闻台
+#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now1.png", Now新闻台
 https://hls-gateway.vpstv.net/streams/477070.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/viutv.png", Viu TV
