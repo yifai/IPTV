@@ -142,7 +142,7 @@ https://hls-gateway.vpstv.net/streams/709080.m3u8
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png", HBO HiTS
 https://hls-gateway.vpstv.net/streams/602206.m3u8
 
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png", HBO HiTS
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hits.png", HiTS
 https://hls-gateway.vpstv.net/streams/709508.m3u8
 
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png", HBO HiTS
