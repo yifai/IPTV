@@ -19,6 +19,12 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutvsix
 
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
+http://s1.an94tv.cfd/aktv2/viu6/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",  ViuTV6
+http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png", 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,7 +103,7 @@ https://judy.diver.eu.org/websuper265.php?id=SSIT
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
 https://judy.diver.eu.org/websuper265.php?id=STVM
 
-#EXTINF:-1 tvg-id="SUPER話當年" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER話當年
+#EXTINF:-1 tvg-id="SUPER話當年（免费）" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER話當年
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
@@ -120,7 +126,6 @@ https://judy.diver.eu.org/websuper265.php?id=GBTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
 https://judy.diver.eu.org/websuper265.php?id=SZTV
-
 
 #EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", myTV SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
