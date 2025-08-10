@@ -343,12 +343,6 @@ https://judy.diver.eu.org/websuper265.php?id=CTHR
 #KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
 https://judy.diver.eu.org/websuper265.php?id=CCCM
 
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png", 中國電影頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
-https://judy.diver.eu.org/websuper265.php?id=CMC
-
 #EXTINF:-1 tvg-id="Rock Action" tvg-name="ROCK Action" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKACTION.png", ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
