@@ -74,7 +74,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Astro" group-logo="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hits.png", HITS Movies
+#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Astro" group-logo="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hitsmovies", HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
