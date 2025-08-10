@@ -397,7 +397,7 @@ https://judy.diver.eu.org/websuper265.php?id=CANI
 #KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
 https://judy.diver.eu.org/websuper265.php?id=CJTV
 
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/PopC.png", PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/PopC.png", PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
