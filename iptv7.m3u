@@ -1,0 +1,162 @@
+#EXTM3U
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK31.png", 港台電視31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
+#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png", 港台電視32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv76.png", HOY 國際財經台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv77.png", HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 資訊台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="HOY 生活台" tvg-name="HOY 生活台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 生活台
+https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
+
+#EXTINF:-1 tvg-id="HOY 劇集台" tvg-name="HOY 劇集台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 劇集台
+https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
+
+#EXTINF:-1 tvg-id="HOY 怪談台" tvg-name="HOY 怪談台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 怪談台
+https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
+
+#EXTINF:-1 tvg-id="HOY 體育台" tvg-name="HOY 體育台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 體育台
+https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
+
+#EXTINF:-1 tvg-id="MotorVision" tvg-name="MotorVision" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="HongKong", MotorVision
+https://edge.media.seaovers.live/856b503e276cc491293fe55b87420bae/mediasuite-live/cp0004/408UNZ5E/mvg/mv/mv.m3u8?bcpf=6
+
+#EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="HongKong", SportsPlus
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8?ads.channel_name=SportsTVPlus&ads.content_cat=IAB17&ads.content_genre=Sports&ads.content_id=STA117&ads.content_language=en&ads.content_title=Race+Central%3A+Episode++848&ads.coppa=0&ads.livestream=1&ads.provider=TrueAmerican&ads.rating=TV14
+
+#EXTINF:-1 tvg-id="spot on news" tvg-name="spot on news" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="HongKong", Spot on news
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8?ads.channel_name=spot+on+news&ads.content_cat=IAB1-2&ads.content_genre=Celebrity%2CEntertainment%2CLifestyle%2CNews&ads.content_id=SSN100&ads.content_language=en&ads.content_title=Explosion+at+Louisiana+auto+supply+plant+forces+evacuations&ads.coppa=0&ads.livestream=1&ads.provider=spot+on+news&ads.rating=TVG
+
+#EXTINF:-1 tvg-id="Travel & Food TV" tvg-name="Travel & Food TV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="HongKong", Travel & Food TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/77I3ZMNRNMI5I93YF0WC/hls3/now,-1m/m.m3u8?ads.channel_name=Travel+%26+Food+TV&ads.content_cat=IAB8&ads.content_genre=Food%2CLifestyle&ads.content_id=STA118&ads.content_language=en&ads.content_title=Plantation+Inn&ads.coppa=0&ads.livestream=1&ads.provider=TrueAmerican&ads.rating=TV14
+
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
+https://yang-1989.eu.org/live/ViuTV
+
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/viu-tv6.png", ViuTV6
+https://yang-1989.eu.org/live/ViuTVsix
+
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nownews.png",  Now新聞台
+https://yang-1989.eu.org/live/now-332
+
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nownews.png",  Now新聞台
+https://cdn.163189.xyz/163189/now
+
+#EXTINF:-1 tvg-id="Now财经台" tvg-name="Now财经台" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nownews.png",  Now财经台
+https://b.ttvb.eu.org/tvb/now-33/index.m3u8
+
+#EXTINF:-1 tvg-id="澳門綜藝台" tvg-name="澳門綜藝台" group-title="HongKong" tvg-logo="", 澳門綜藝台
+https://103.233.191.132/ch6/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳門資訊台" tvg-name="澳門資訊台" tvg-logo="" group-title="HongKong", 澳門資訊台
+https://103.233.191.132/ch5/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳視衛星台" tvg-name="澳視衛星台" group-title="HongKong" tvg-logo="", 澳視衛星台 
+https://103.233.191.132/ch3/ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳視澳門台" tvg-name="澳視澳門台" tvg-logo="" group-title="HongKong", 澳視澳門台
+https://103.233.191.132/ch1/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳門體育台" tvg-name="澳門體育台" group-title="HongKong" tvg-logo="", 澳門體育台
+https://103.233.191.132/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳視葡文台" tvg-name="澳視葡文台" tvg-logo="" group-title="HongKong", 澳視葡文台
+https://103.233.191.132/ch2/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png", 翡翠一台
+https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBDRAMA" tvg-name="TVBDRAMA" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png", TVBDRAMA
+https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVB NEWS" tvg-name="TVB NEWS" group-title="HongKong" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBnews.png", TVB NEWS
+https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-id="HBO" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO.png", HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
+
+#EXTINF:-1 tvg-name="HBO Hits" tvg-id="404.astro", group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO-Hits.png", HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbohits
+
+#EXTINF:-1 group-title="Astro" tvg-id="414.astro" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO-Family.png", HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbofamily
+
+#EXTINF:-1 group-title="Astro" tvg-id="474.unifi" ch-number="474" tvg-name="Rock Action" ch-number="474" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKACTION.png",Rock Action
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+
+#EXTINF:-1 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hitsmovies.png", HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
+
+#EXTINF:-1 tvg-id="AFN" tvg-name="AFN(HD)" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/AFN.png", AFN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TLC.png", TLC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd?channel=tlc
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Discovery.png", Discovery
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryhd
+
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Discovery1.png", Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryasia
+
+#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/bbcearth.png" ch-number="501", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
+
+#EXTINF:-1 tvg-id="512.unifi" ch-number="512" tvg-name="BBC Lifestyle" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/bbclifestyle.png", BBC Lifestyle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbclifestyle
+
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" group-title="HongKong" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png", Love Nature
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" group-title="HongKong" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png", Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/00ee4f47-16cf-4246-84ae-732b43eb8dfc/0.m3u8?ads.cdn=ak&ads.service_id=USBA3400003IP&ads.ssai_vendor=SSSLIVE&ads.us_privacy=1YNY&pb_type=pb-ehs1glsha1juy_akamai
+
+#EXTINF:-1 tvg-id="SZTV" tvg-name="SZTV" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/深圳卫视.png", 深圳卫视
+https://livepull-tcchudian.sztv.com.cn/live/szws_chudian_n.m3u8
