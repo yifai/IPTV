@@ -1,0 +1,387 @@
+#EXTM3U
+#EXTM3U url-tvg="https://mytvsuperepg.860775.xyz/epg.xml" catchup-time="10800" catchup-type="timeshift"
+
+#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" group-title="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK31.png", 港台電視31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
+#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" group-title="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png", 港台電視32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv76.png", HOY 國際財經台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv77.png", HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 資訊台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="HOY 生活台" tvg-name="HOY 生活台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 生活台
+https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
+
+#EXTINF:-1 tvg-id="HOY 劇集台" tvg-name="HOY 劇集台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 劇集台
+https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
+
+#EXTINF:-1 tvg-id="HOY 怪談台" tvg-name="HOY 怪談台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 怪談台
+https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
+
+#EXTINF:-1 tvg-id="HOY 體育台" tvg-name="HOY 體育台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 體育台
+https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
+
+#EXTINF:-1 tvg-id="MotorVision" tvg-name="MotorVision" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="", MotorVision
+https://edge.media.seaovers.live/856b503e276cc491293fe55b87420bae/mediasuite-live/cp0004/408UNZ5E/mvg/mv/mv.m3u8?bcpf=6
+
+#EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="", SportsPlus
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8?ads.channel_name=SportsTVPlus&ads.content_cat=IAB17&ads.content_genre=Sports&ads.content_id=STA117&ads.content_language=en&ads.content_title=Race+Central%3A+Episode++848&ads.coppa=0&ads.livestream=1&ads.provider=TrueAmerican&ads.rating=TV14
+
+#EXTINF:-1 tvg-id="spot on news" tvg-name="spot on news" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="", Spot on news
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8?ads.channel_name=spot+on+news&ads.content_cat=IAB1-2&ads.content_genre=Celebrity%2CEntertainment%2CLifestyle%2CNews&ads.content_id=SSN100&ads.content_language=en&ads.content_title=Explosion+at+Louisiana+auto+supply+plant+forces+evacuations&ads.coppa=0&ads.livestream=1&ads.provider=spot+on+news&ads.rating=TVG
+
+#EXTINF:-1 tvg-id="Travel & Food TV" tvg-name="Travel & Food TV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="", Travel & Food TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/77I3ZMNRNMI5I93YF0WC/hls3/now,-1m/m.m3u8?ads.channel_name=Travel+%26+Food+TV&ads.content_cat=IAB8&ads.content_genre=Food%2CLifestyle&ads.content_id=STA118&ads.content_language=en&ads.content_title=Plantation+Inn&ads.coppa=0&ads.livestream=1&ads.provider=TrueAmerican&ads.rating=TV14
+
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
+https://yang-1989.eu.org/live/ViuTV
+
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/viu-tv6.png", ViuTV6
+https://yang-1989.eu.org/live/ViuTVsix
+
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nownews.png",  Now新聞台
+https://yang-1989.eu.org/live/now-332
+
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nownews.png",  Now新聞台
+https://cdn.163189.xyz/163189/now
+
+#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png" group-title="", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+http://mytvsuper.27481716.xyz/mytvsuper/J
+
+#EXTINF:-1 tvg-id="JUHD" tvg-name="翡翠台(超高清)" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png" group-title="", 翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+http://mytvsuper.27481716.xyz/mytvsuper/JUHD
+
+#EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBPLUS.png" group-title="", TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+http://mytvsuper.27481716.xyz/mytvsuper/B
+
+#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB明珠台.png" group-title="", 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+http://mytvsuper.27481716.xyz/mytvsuper/P
+
+#EXTINF:-1 tvg-id="C" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBnews.png" group-title="", 無綫新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+http://mytvsuper.27481716.xyz/mytvsuper/C
+
+#EXTINF:-1 tvg-id="SVAR" tvg-name="SUPER獎門人" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER獎門人
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
+http://mytvsuper.27481716.xyz/mytvsuper/SVAR
+
+#EXTINF:-1 tvg-id="SEYT" tvg-name="SUPER EYT" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER EYT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
+http://mytvsuper.27481716.xyz/mytvsuper/SEYT
+
+#EXTINF:-1 tvg-id="SFOO" tvg-name="SUPER識食" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER識食
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
+http://mytvsuper.27481716.xyz/mytvsuper/SFOO
+
+#EXTINF:-1 tvg-id="STRA" tvg-name="SUPER識嘆" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER識嘆
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
+http://mytvsuper.27481716.xyz/mytvsuper/STRA
+
+#EXTINF:-1 tvg-id="SMUS" tvg-name="SUPER Music" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
+http://mytvsuper.27481716.xyz/mytvsuper/SMUS
+
+#EXTINF:-1 tvg-id="SGOL" tvg-name="SUPER金曲" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER金曲
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
+http://mytvsuper.27481716.xyz/mytvsuper/SGOL
+
+#EXTINF:-1 tvg-id="SSIT" tvg-name="SUPER煲劇" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER煲劇
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
+http://mytvsuper.27481716.xyz/mytvsuper/SSIT
+
+#EXTINF:-1 tvg-id="STVM" tvg-name="SUPER單元劇" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER單元劇
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
+http://mytvsuper.27481716.xyz/mytvsuper/STVM
+
+#EXTINF:-1 tvg-id="SDOC" tvg-name="真情SUPER煲" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", 真情SUPER煲
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
+http://mytvsuper.27481716.xyz/mytvsuper/SDOC
+
+#EXTINF:-1 tvg-id="SSPT" tvg-name="SUPER Sports" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", SUPER Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
+http://mytvsuper.27481716.xyz/mytvsuper/SSPT
+
+#EXTINF:-1 tvg-id="C18" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper18.png" group-title="", myTV SUPER 18台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
+http://mytvsuper.27481716.xyz/mytvsuper/C18
+
+#EXTINF:-1 tvg-id="TVG" tvg-name="黄金翡翠台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/黄金翡翠.png" group-title="", 黄金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+http://mytvsuper.27481716.xyz/mytvsuper/TVG
+
+#EXTINF:-1 tvg-id="CTVC" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/tvbclassic.png" group-title="", 千禧經典台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
+http://mytvsuper.27481716.xyz/mytvsuper/CTVC
+
+#EXTINF:-1 tvg-id="KID" tvg-name="SUPER Kids Channel" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/SUPERKids.png" group-title="", SUPER Kids Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
+http://mytvsuper.27481716.xyz/mytvsuper/KID
+
+#EXTINF:-1 tvg-id="CNIKO" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nickelodeon.png" group-title="", Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
+http://mytvsuper.27481716.xyz/mytvsuper/CNIKO
+
+#EXTINF:-1 tvg-id="CNIJR" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nickjr.png" group-title="", Nick Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
+http://mytvsuper.27481716.xyz/mytvsuper/CNIJR
+
+#EXTINF:-1 tvg-id="CMAM" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/美亚电影.png" group-title="", 美亞電影台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+http://mytvsuper.27481716.xyz/mytvsuper/CMAM
+
+#EXTINF:-1 tvg-id="CTHR" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Thrill.png" group-title="", Thrill
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
+http://mytvsuper.27481716.xyz/mytvsuper/CTHR
+
+#EXTINF:-1 tvg-id="CRTX" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKACTION.png" group-title="", ROCK Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
+http://mytvsuper.27481716.xyz/mytvsuper/CRTX
+
+#EXTINF:-1 tvg-id="CKIX" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/KixTV.png" group-title="", KIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
+http://mytvsuper.27481716.xyz/mytvsuper/CKIX
+
+#EXTINF:-1 tvg-id="LNH" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/LoveNature.png" group-title="", Love Nature HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
+http://mytvsuper.27481716.xyz/mytvsuper/LNH
+
+#EXTINF:-1 tvg-id="LN4" tvg-name="Love Nature 4K" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/LoveNarure4K.png" group-title="", Love Nature 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
+http://mytvsuper.27481716.xyz/mytvsuper/LN4
+
+#EXTINF:-1 tvg-id="SMS" tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Globaltrekker.png" group-title="", Global Trekker
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
+http://mytvsuper.27481716.xyz/mytvsuper/SMS
+
+#EXTINF:-1 tvg-id="CRTE" tvg-name="ROCK 綜藝音樂綜藝" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKEntertainment.png" group-title="", ROCK 綜藝音樂綜藝
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
+http://mytvsuper.27481716.xyz/mytvsuper/CRTE
+
+#EXTINF:-1 tvg-id="CAXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/AXN.png" group-title="", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
+http://mytvsuper.27481716.xyz/mytvsuper/CAXN
+
+#EXTINF:-1 tvg-id="RKEX" tvg-name="ROCK Extreme" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKExtreme.png" group-title="", ROCK Extreme
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
+http://mytvsuper.27481716.xyz/mytvsuper/RKEX
+
+#EXTINF:-1 tvg-id="EVT2" tvg-name="myTV SUPER 直播足球2台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", myTV SUPER 直播足球2台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
+http://mytvsuper.27481716.xyz/mytvsuper/EVT2
+
+#EXTINF:-1 tvg-id="EVT3" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", myTV SUPER 直播足球3台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
+http://mytvsuper.27481716.xyz/mytvsuper/EVT3
+
+#EXTINF:-1 tvg-id="EVT4" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", myTV SUPER 直播足球4台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
+http://mytvsuper.27481716.xyz/mytvsuper/EVT4
+
+#EXTINF:-1 tvg-id="EVT5" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", myTV SUPER 直播足球5台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
+http://mytvsuper.27481716.xyz/mytvsuper/EVT5
+
+#EXTINF:-1 tvg-id="EVT6" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", myTV SUPER 直播足球6台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
+http://mytvsuper.27481716.xyz/mytvsuper/EVT6
+
+#EXTINF:-1 tvg-id="EVT7" tvg-name="myTV SUPER 直播足球7台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper.png" group-title="", myTV SUPER 直播足球7台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc
+http://mytvsuper.27481716.xyz/mytvsuper/EVT7
+
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png", 翡翠一台
+https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBDRAMA" tvg-name="TVBDRAMA" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png", TVBDRAMA
+https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVB NEWS" tvg-name="TVB NEWS" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBnews.png", TVB NEWS
+https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳門綜藝台" tvg-name="澳門綜藝台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/澳视综艺.png", 澳門綜藝台
+https://103.233.191.132/ch6/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳門資訊台" tvg-name="澳門資訊台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/澳视资讯.png",  澳門資訊台
+https://103.233.191.132/ch5/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳視衛星台" tvg-name="澳視衛星台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/澳视Macau.png", 澳視衛星台 
+https://103.233.191.132/ch3/ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳視澳門台" tvg-name="澳視澳門台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/澳视澳門.png",  澳視澳門台
+https://103.233.191.132/ch1/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳門體育台" tvg-name="澳門體育台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/澳视体育.png", 澳門體育台
+https://103.233.191.132/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="澳視葡文台" tvg-name="澳視葡文台" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/澳视葡文.png",  澳視葡文台
+https://103.233.191.132/ch2/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-id="HBO" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO.png", HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
+
+#EXTINF:-1 tvg-name="HBO Hits" tvg-id="404.astro", group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO-Hits.png", HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbohits
+
+#EXTINF:-1 group-title="" tvg-id="414.astro" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO-Family.png", HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbofamily
+
+#EXTINF:-1 group-title="" tvg-id="474.unifi" ch-number="474" tvg-name="Rock Action" ch-number="474" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKACTION.png",Rock Action
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+
+#EXTINF:-1 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hitsmovies.png", HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
+
+#EXTINF:-1 tvg-id="AFN" tvg-name="AFN(HD)" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/AFN.png", AFN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TLC.png", TLC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd?channel=tlc
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Discovery.png", Discovery
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryhd
+
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Discovery1.png", Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryasia
+
+#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/bbcearth.png" ch-number="501", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
+
+#EXTINF:-1 tvg-id="512.unifi" ch-number="512" tvg-name="BBC Lifestyle" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/bbclifestyle.png", BBC Lifestyle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbclifestyle
+
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/LoveNature.png", Love Nature
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/LOVENATURE4K.png", Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/00ee4f47-16cf-4246-84ae-732b43eb8dfc/0.m3u8?ads.cdn=ak&ads.service_id=USBA3400003IP&ads.ssai_vendor=SSSLIVE&ads.us_privacy=1YNY&pb_type=pb-ehs1glsha1juy_akamai
+
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/LoveNature.png", Love Nature
+https://4gtvmobile-mozai.4gtv.tv/R3KzJUg9tncO2H3efumymgvfc_J_m0h2UcSELvEMICo%3d/index.m3u8?token=FLtS-Dfjpnenjz9RHXOVPg&expires=1767636708&token1=o_ZeInEVfYji-_b3OccBLg&expires1=1767636708&refer=Mjg0ODY3Y2ItNWE3Ny00MzAyLWEzZGUtOWVjZmRhZTgyNDA1&y=0
+
+#EXTINF:-1 tvg-id="麥哲倫頻道" tvg-name="麥哲倫頻道" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MagellanTV.png", 麥哲倫頻道
+https://4gtvmobile-mozai.4gtv.tv/obWPKre_3tXXH-zoPoDx4ijGteUiMAUi-rBLr8upzlw%3d/index.m3u8?token=F6CxUcpwjqz5b4vUogJ-DA&expires=1767636751&token1=_FNI8RXetu3BwEgWGRlbag&expires1=1767636751&refer=MjIzODA5MWItOTUyNC00MmFiLTkwNTQtYjU1ZTNhNWY1Mjdh&y=0
+
+#EXTINF:-1 tvg-id="SZTV" tvg-name="SZTV" group-title="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/深圳卫视.png", 深圳卫视
+https://livepull-tcchudian.sztv.com.cn/live/szws_chudian_n.m3u8
